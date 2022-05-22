@@ -1,0 +1,32 @@
+{
+  "identifier": "Microservice",
+  "icon": "Microservice",
+  "dataSource": "GitHub",
+  "schema": {
+    "properties": {
+      "repository": {
+        "type": "string",
+        "format": "url",
+        "title": "Repository"
+      },
+      "owner": {
+        "type": "string",
+        "title": "Owner"
+      },
+      "runtime": {
+        "type": "string",
+        "title": "Runtime"
+      },
+      "slack-channel": {
+        "title": "Slack Channel",
+        "type": "string"
+      },
+      "grafana": {
+        "type": "string",
+        "format": "url",
+        "title": "Grafana"
+      }
+    },
+    "required": []
+  }
+}
