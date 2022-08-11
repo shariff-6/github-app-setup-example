@@ -3,7 +3,6 @@ identifier: example
 title: Example
 blueprint: Microservice
 properties: 
-  repository: https://github.com/port-labs/github-app-setup-example
   owner: port-labs
   runtime: NodeJs
   slack-channel: prod-alerts
