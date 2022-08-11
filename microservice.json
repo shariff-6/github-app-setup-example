@@ -1,10 +1,11 @@
 {
   "identifier": "Microservice",
+  "title": "Microservice",
   "icon": "Microservice",
   "dataSource": "GitHub",
   "schema": {
     "properties": {
-      "repository": {
+      "repo": {
         "type": "string",
         "format": "url",
         "title": "Repository"
