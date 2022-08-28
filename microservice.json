@@ -2,7 +2,6 @@
   "identifier": "Microservice",
   "title": "Microservice",
   "icon": "Microservice",
-  "dataSource": "GitHub",
   "schema": {
     "properties": {
       "repo": {
