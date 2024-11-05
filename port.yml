@@ -1,6 +1,6 @@
 apiVersion: v0.1
 identifier: example
-title: Example
+title: Examples
 blueprint: Microservice
 properties: 
   owner: port-labs
